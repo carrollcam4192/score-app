@@ -1,3 +1,3 @@
 # score-app
 
-# test branch using pug
+# Implementation of Express & React

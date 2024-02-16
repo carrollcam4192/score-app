@@ -2,7 +2,19 @@
   text-align: center;
 }
 
-.App-logo {
+.menu-wrapper {
+  height: 100px;
+  background-color: green;
+  
+}
+
+
+
+
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
